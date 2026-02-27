@@ -15,6 +15,9 @@
 ### Тестирование
 
 Скриншоты результата работы программы
+<img width="750" height="579" alt="çáñá¡¿Ñ 1  ÆÑßΓ 3" src="https://github.com/user-attachments/assets/7d2fac18-c15f-43dd-bad6-f311f392f0a9" />
+<img width="769" height="594" alt="çáñá¡¿Ñ 1  ÆÑßΓ 2" src="https://github.com/user-attachments/assets/e80e8d58-fd10-43c6-a764-1c48f1e61265" />
+<img width="916" height="582" alt="çáñá¡¿Ñ 1  ÆÑßΓ 1" src="https://github.com/user-attachments/assets/32833049-7ce9-4d16-a1eb-2a1c2c99224a" />
 
 
 # Задание 2
@@ -32,6 +35,9 @@
 ### Тестирование
 
 Скриншоты результата работы программы
+<img width="449" height="563" alt="çáñá¡¿Ñ 2  ÆÑßΓ 3" src="https://github.com/user-attachments/assets/9bfafeae-e6fa-4609-bcd6-0489f8018d68" />
+<img width="426" height="309" alt="çáñá¡¿Ñ 2  ÆÑßΓ 2" src="https://github.com/user-attachments/assets/6da95b9d-c686-4536-bcb9-b1288ae7c4c0" />
+<img width="656" height="419" alt="çáñá¡¿Ñ 2  ÆÑßΓ 1" src="https://github.com/user-attachments/assets/37dbd6a0-14ec-4a22-9043-6a9a72b0d834" />
 
 
 # Задание 3
