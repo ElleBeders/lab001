@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\002\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{35D95CF5-70AD-49D3-82DB-FA0996746A3C}|002\\002.fsproj|c:\\users\\user\\source\\repos\\002\\002\\program.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}",
+      "RelativeMoniker": "D:0:0:{35D95CF5-70AD-49D3-82DB-FA0996746A3C}|002\\002.fsproj|solutionrelative:002\\program.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.fs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\002\\002\\Program.fs",
+              "RelativeDocumentMoniker": "002\\Program.fs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\002\\002\\Program.fs",
+              "RelativeToolTip": "002\\Program.fs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-02-26T15:29:35.131Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
