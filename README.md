@@ -62,5 +62,3 @@
 <img width="362" height="680" alt="Снимок экрана 2026-03-03 091231" src="https://github.com/user-attachments/assets/e27e5709-7056-47b5-99d8-1a5dfb9d1ce3" />
 <img width="356" height="675" alt="Снимок экрана 2026-03-03 091439" src="https://github.com/user-attachments/assets/451154b7-d636-49fa-9caf-eacb5a12d20b" />
 <img width="319" height="657" alt="Снимок экрана 2026-03-03 091524" src="https://github.com/user-attachments/assets/d29ea803-4e65-43a3-8aa6-01fcba4cabfc" />
-<img width="1483" height="762" alt="Снимок экрана 2026-02-27 141519" src="https://github.com/user-attachments/assets/6cf1c0ae-7b78-4bbf-8050-fd8aaf660e50" />
-
